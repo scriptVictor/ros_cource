@@ -1,0 +1,11 @@
+int32 row1_column1
+int32 row1_column2
+int32 row1_column3
+int32 row2_column1
+int32 row2_column2
+int32 row2_column3
+int32 row3_column1
+int32 row3_column2
+int32 row3_column3
+---
+float32 det_matrix
